@@ -1,0 +1,1003 @@
+[
+  {
+    "author": "Chinua Achebe",
+    "country": "Nigeria",
+    "language": "English",
+    "published":"2002-06-04",
+    "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n",
+    "pages": 209,
+    "title": "Things Fall Apart",
+    "subject": "Drama"
+  },
+  {
+    "author": "Hans Christian Andersen",
+    "country": "Denmark",
+    "published":"1998-12-04",
+    "language": "Danish",
+    "link": "https://en.wikipedia.org/wiki/Fairy_Tales_Told_for_Children._First_Collection.\n",
+    "pages": 784,
+    "title": "Fairy tales",
+    "subject": "Drama"
+  },
+  {
+    "author": "Dante Alighieri",
+    "country": "Italy",
+    "published":"1993-06-19",
+    "language": "Italian",
+    "link": "https://en.wikipedia.org/wiki/Divine_Comedy\n",
+    "pages": 928,
+    "title": "The Divine Comedy",
+    "subject": "Comedy"
+  },
+  {
+    "author": "Unknown",
+    "country": "Sumer and Akkadian Empire",
+    "published":"2008-11-04",
+    "language": "Akkadian",
+    "link": "https://en.wikipedia.org/wiki/Epic_of_Gilgamesh\n",
+    "pages": 160,
+    "title": "The Epic Of Gilgamesh",
+    "subject": "Drama" 
+  },
+  {
+    "author": "Unknown",
+    "country": "Achaemenid Empire",
+    "published":"1996-08-16",
+    "language": "Hebrew",
+    "link": "https://en.wikipedia.org/wiki/Book_of_Job\n",
+    "pages": 176,
+    "title": "The Book Of Job",
+    "subject": "Action"
+  },
+  {
+    "author": "Unknown",
+    "country": "India/Iran/Iraq/Egypt/Tajikistan",
+    "published":"2001-10-27",
+    "language": "Arabic",
+    "link": "https://en.wikipedia.org/wiki/One_Thousand_and_One_Nights\n",
+    "pages": 288,
+    "title": "One Thousand and One Nights",
+    "subject": "Drama"
+  },
+  {
+    "author": "Unknown",
+    "country": "Iceland",
+    "published":"2007-10-28",
+    "language": "Old Norse",
+    "link": "https://en.wikipedia.org/wiki/Nj%C3%A1ls_saga\n",
+    "pages": 384,
+    "title": "Nj\u00e1l's Saga",
+    "subject": "Action"
+  },
+  {
+    "author": "Jane Austen",
+    "country": "United Kingdom",
+    "published":"2006-06-20",
+    "language": "English",
+    "link": "https://en.wikipedia.org/wiki/Pride_and_Prejudice\n",
+    "pages": 226,
+    "title": "Pride and Prejudice",
+    "subject": "Action"
+  },
+  {
+    "author": "Honor\u00e9 de Balzac",
+    "country": "France",
+    "published":"2011-02-25",
+    "language": "French",
+    "link": "https://en.wikipedia.org/wiki/Le_P%C3%A8re_Goriot\n",
+    "pages": 443,
+    "title": "Le P\u00e8re Goriot",
+    "subject": "Action"
+  },
+  {
+    "author": "Samuel Beckett",
+    "country": "Republic of Ireland",
+    "published":"2005-08-30",
+    "language": "French, English",
+    "link": "https://en.wikipedia.org/wiki/Molloy_(novel)\n",
+    "pages": 256,
+    "title": "Molloy, Malone Dies, The Unnamable, the trilogy",
+    "subject": "Comedy"
+  },
+  {
+    "author": "Giovanni Boccaccio",
+    "country": "Italy",
+    "published":"2012-10-08",
+    "language": "Italian",
+    "link": "https://en.wikipedia.org/wiki/The_Decameron\n",
+    "pages": " ",
+    "title": "The Decameron",
+    "subject": "Drama "
+  },
+  {
+    "author": "Jorge Luis Borges",
+    "country": "Argentina",
+    "published":"2006-12-05",
+    "language": "Spanish",
+    "link": "https://en.wikipedia.org/wiki/Ficciones\n",
+    "pages": 224,
+    "title": "Ficciones",
+    "subject": "Action"
+  },
+  {
+    "author": "Emily Bront\u00eb",
+    "country": "United Kingdom",
+    "published":"2007-11-30",
+    "language": "English",
+    "link": "https://en.wikipedia.org/wiki/Wuthering_Heights\n",
+    "pages": 342,
+    "title": "Wuthering Heights",
+    "subject": "Action"
+  },
+  {
+    "author": "Albert Camus",
+    "country": "Algeria, French Empire",
+    "published":"2001-07-08",
+    "language": "French",
+    "link": "https://en.wikipedia.org/wiki/The_Stranger_(novel)\n",
+    "pages": 185,
+    "title": "The Stranger",
+    "subject": "Action"
+  },
+  {
+    "author": "Paul Celan",
+    "country": "Romania, France",
+    "published":"2006-12-31",
+    "language": "German",
+    "link": "\n",
+    "pages": 320,
+    "title": "Poems",
+    "subject": "Drama"
+  },
+  {
+    "author": "Louis-Ferdinand C\u00e9line",
+    "country": "France",
+    "published":"2005-12-04",
+    "language": "French",
+    "link": "https://en.wikipedia.org/wiki/Journey_to_the_End_of_the_Night\n",
+    "pages": 505,
+    "title": "Journey to the End of the Night",
+    "subject": "Horror"
+  },
+  {
+    "author": "Miguel de Cervantes",
+    "country": "Spain",
+    "published":"2002-10-04",
+    "language": "Spanish",
+    "link": "https://en.wikipedia.org/wiki/Don_Quixote\n",
+    "pages": " ",
+    "title": "Don Quijote De La Mancha",
+    "subject": "Action"
+  },
+  {
+    "author": "Geoffrey Chaucer",
+    "country": "England",
+    "published":"1988-06-30",
+    "language": "English",
+    "link": "https://en.wikipedia.org/wiki/The_Canterbury_Tales\n",
+    "pages": 544,
+    "title": "The Canterbury Tales",
+    "subject": "Drama"
+  },
+  {
+    "author": "Anton Chekhov",
+    "country": "Russia",
+    "published":"1987-05-04",
+    "language": "Russian",
+    "link": "https://en.wikipedia.org/wiki/List_of_short_stories_by_Anton_Chekhov\n",
+    "pages": 194,
+    "title": "Stories",
+    "subject": "Drama"
+  },
+  {
+    "author": "Joseph Conrad",
+    "country": "United Kingdom",
+    "published":"1988-12-04",
+    "language": "English",
+    "link": "https://en.wikipedia.org/wiki/Nostromo\n",
+    "pages": 320,
+    "title": "Nostromo",
+    "subject": "Drama"
+  },
+  {
+    "author": "Charles Dickens",
+    "country": "United Kingdom",
+    "published":"1998-12-04",
+    "language": "English",
+    "link": "https://en.wikipedia.org/wiki/Great_Expectations\n",
+    "pages": 194,
+    "title": "Great Expectations",
+    "subject": "Action"
+  },
+  {
+    "author": "Denis Diderot",
+    "country": "France",
+    "published":"1999-04-04",
+    "language": "French",
+    "link": "https://en.wikipedia.org/wiki/Jacques_the_Fatalist\n",
+    "pages": 596,
+    "title": "Jacques the Fatalist",
+    "subject": "Drama"
+  },
+  {
+    "author": "Alfred D\u00f6blin",
+    "country": "Germany",
+    "published":"1996-12-04",
+    "language": "German",
+    "link": "https://en.wikipedia.org/wiki/Berlin_Alexanderplatz\n",
+    "pages": 600,
+    "title": "Berlin Alexanderplatz",
+    "subject": "Drama"
+  },
+  {
+    "author": "Fyodor Dostoevsky",
+    "country": "Russia",
+    "published":"1994-08-04",
+    "language": "Russian",
+    "link": "https://en.wikipedia.org/wiki/Crime_and_Punishment\n",
+    "pages": 551,
+    "title": "Crime and Punishment",
+    "subject": "Action"
+  },
+  {
+    "author": "Fyodor Dostoevsky",
+    "country": "Russia",
+    "published": "1983-12-04",
+    "language": "Russian",
+    "link": "https://en.wikipedia.org/wiki/The_Idiot\n",
+    "pages": 656,
+    "title": "The Idiot",
+    "subject": "Drama"
+  },
+  {
+    "author": "Fyodor Dostoevsky",
+    "country": "Russia",
+    "published": "1988-10-04",
+    "language": "Russian",
+    "link": "https://en.wikipedia.org/wiki/Demons_(Dostoyevsky_novel)\n",
+    "pages": 768,
+    "title": "The Possessed",
+    "subject": "Drama"
+  },
+  {
+    "author": "Fyodor Dostoevsky",
+    "country": "Russia",
+    "published": "1987-12-04",
+    "language": "Russian",
+    "link": "https://en.wikipedia.org/wiki/The_Brothers_Karamazov\n",
+    "pages": 824,
+    "title": "The Brothers Karamazov",
+    "subject": "Action"
+  },
+  {
+    "author": "George Eliot",
+    "country": "United Kingdom",
+    "published": "1986-12-31",
+    "language": "English",
+    "link": "https://en.wikipedia.org/wiki/Middlemarch\n",
+    "pages": 800,
+    "title": "Middlemarch",
+    "subject": "Action"
+  },
+  {
+    "author": "Ralph Ellison",
+    "country": "United States",
+    "published": "1995-04-30",
+    "language": "English",
+    "link": "https://en.wikipedia.org/wiki/Invisible_Man\n",
+    "pages": 581,
+    "title": "Invisible Man",
+    "subject": "Horror"
+  },
+  {
+    "author": "Euripides",
+    "country": "Greece",
+    "published": "1984-02-13",
+    "language": "Greek",
+    "link": "https://en.wikipedia.org/wiki/Medea_(play)\n",
+    "pages": 104,
+    "title": "Medea",
+    "subject": "Action"
+  },
+  {
+    "author": "William Faulkner",
+    "country": "United States",
+    "published": "1971-03-18",
+    "language": "English",
+    "link": "https://en.wikipedia.org/wiki/Absalom,_Absalom!\n",
+    "pages": 313,
+    "title": "Absalom, Absalom!",
+    "subject": "Action"
+  },
+  {
+    "author": "William Faulkner",
+    "country": "United States",
+    "published": "1972-09-21",
+    "language": "English",
+    "link": "https://en.wikipedia.org/wiki/The_Sound_and_the_Fury\n",
+    "pages": 326,
+    "title": "The Sound and the Fury",
+    "subject": "Horror"
+  },
+  {
+    "author": "Gustave Flaubert",
+    "country": "France",
+    "published": "1973-05-19",
+    "language": "French",
+    "link": "https://en.wikipedia.org/wiki/Madame_Bovary\n",
+    "pages": 528,
+    "title": "Madame Bovary",
+    "subject": "Action"
+  },
+  {
+    "author": "Gustave Flaubert",
+    "country": "France",
+    "published": "1980-10-18",
+    "language": "French",
+    "link": "https://en.wikipedia.org/wiki/Sentimental_Education\n",
+    "pages": 606,
+    "title": "Sentimental Education",
+    "subject": "Drama"
+  },
+  {
+    "author": "Federico Garc\u00eda Lorca",
+    "country": "Spain",
+    "published": "1990-07-27",
+    "language": "Spanish",
+    "link": "https://en.wikipedia.org/wiki/Gypsy_Ballads\n",
+    "pages": 218,
+    "title": "Gypsy Ballads",
+    "subject": "Drama"
+  },
+  {
+    "author": "Gabriel Garc\u00eda M\u00e1rquez",
+    "country": "Colombia",
+    "published": "1985-06-04",
+    "language": "Spanish",
+    "link": "https://en.wikipedia.org/wiki/One_Hundred_Years_of_Solitude\n",
+    "pages": 417,
+    "title": "One Hundred Years of Solitude",
+    "subject": "Action"
+  },
+  {
+    "author": "Gabriel Garc\u00eda M\u00e1rquez",
+    "country": "Colombia",
+    "published": "1983-06-23",
+    "language": "Spanish",
+    "link": "https://en.wikipedia.org/wiki/Love_in_the_Time_of_Cholera\n",
+    "pages": 368,
+    "title": "Love in the Time of Cholera",
+    "subject": "Drama"
+  },
+  {
+    "author": "Johann Wolfgang von Goethe",
+    "country": "Saxe-Weimar",
+    "published": "1988-05-28",
+    "language": "German",
+    "link": "https://en.wikipedia.org/wiki/Goethe%27s_Faust\n",
+    "pages": 158,
+    "title": "Faust",
+    "subject": "Drama"
+  },
+  {
+    "author": "Nikolai Gogol",
+    "country": "Russia",
+    "published": "1956-12-04",
+    "language": "Russian",
+    "link": "https://en.wikipedia.org/wiki/Dead_Souls\n",
+    "pages": 432,
+    "title": "Dead Souls",
+    "subject": "Horror"
+  },
+  {
+    "author": "G\u00fcnter Grass",
+    "country": "Germany",
+    "published": "1973-12-04",
+    "language": "German",
+    "link": "https://en.wikipedia.org/wiki/The_Tin_Drum\n",
+    "pages": 600,
+    "title": "The Tin Drum",
+    "subject": "Action"
+  },
+  {
+    "author": "Jo\u00e3o Guimar\u00e3es Rosa",
+    "country": "Brazil",
+    "published": "1982-05-04",
+    "language": "Portuguese",
+    "link": "https://en.wikipedia.org/wiki/The_Devil_to_Pay_in_the_Backlands\n",
+    "pages": 494,
+    "title": "The Devil to Pay in the Backlands",
+    "subject": "Horror"
+  },
+  {
+    "author": "Knut Hamsun",
+    "country": "Norway",
+    "published": "1981-06-04",
+    "language": "Norwegian",
+    "link": "https://en.wikipedia.org/wiki/Hunger_(Hamsun_novel)\n",
+    "pages": 176,
+    "title": "Hunger",
+    "subject": "Action"
+  },
+  {
+    "author": "Ernest Hemingway",
+    "country": "United States",
+    "published": "1980-10-22",
+    "language": "English",
+    "link": "https://en.wikipedia.org/wiki/The_Old_Man_and_the_Sea\n",
+    "pages": 128,
+    "title": "The Old Man and the Sea",
+    "subject": "Action"
+  },
+  {
+    "author": "Homer",
+    "country": "Greece",
+    "published": "1973-12-04",
+    "language": "Greek",
+    "link": "https://en.wikipedia.org/wiki/Iliad\n",
+    "pages": 608,
+    "title": "Iliad",
+    "subject":"Drama"
+  },
+  {
+    "author": "Homer",
+    "country": "Greece",
+    "published": "1989-05-15",
+    "language": "Greek",
+    "link": "https://en.wikipedia.org/wiki/Odyssey\n",
+    "pages": 374,
+    "title": "Odyssey",
+    "subject": "Drama"
+  },
+  {
+    "author": "Henrik Ibsen",
+    "country": "Norway",
+    "published": "1989-04-25",
+    "language": "Norwegian",
+    "link": "https://en.wikipedia.org/wiki/A_Doll%27s_House\n",
+    "pages": 68,
+    "title": "A Doll's House",
+    "subject": "Drama"
+  },
+  {
+    "author": "James Joyce",
+    "country": "Irish Free State",
+    "published": "2004-06-17",
+    "language": "English",
+    "link": "https://en.wikipedia.org/wiki/Ulysses_(novel)\n",
+    "pages": 228,
+    "title": "Ulysses",
+    "subject": "Action"
+  },
+  {
+    "author": "Franz Kafka",
+    "country": "Czechoslovakia",
+    "published": "1979-08-04",
+    "language": "German",
+    "link": "https://en.wikipedia.org/wiki/Franz_Kafka_bibliography#Short_stories\n",
+    "pages": 488,
+    "title": "Stories",
+    "subject": "Drama"
+  },
+  {
+    "author": "Franz Kafka",
+    "country": "Czechoslovakia",
+    "published": "1973-04-10",
+    "language": "German",
+    "link": "https://en.wikipedia.org/wiki/The_Trial\n",
+    "pages": 160,
+    "title": "The Trial",
+    "subject": "Action"
+  },
+  {
+    "author": "Franz Kafka",
+    "country": "Czechoslovakia",
+    "published": "1975-07-06",
+    "language": "German",
+    "link": "https://en.wikipedia.org/wiki/The_Castle_(novel)\n",
+    "pages": 352,
+    "title": "The Castle",
+    "subject": "Horror"
+  },
+  {
+    "author": "K\u0101lid\u0101sa",
+    "country": "India",
+    "published": "1947-10-08",
+    "language": "Sanskrit",
+    "link": "https://en.wikipedia.org/wiki/Abhij%C3%B1%C4%81na%C5%9B%C4%81kuntalam\n",
+    "pages": 147,
+    "title": "The recognition of Shakuntala",
+    "subject": "Mythology"
+  },
+  {
+    "author": "Yasunari Kawabata",
+    "country": "Japan",
+    "published": "1973-12-31",
+    "language": "Japanese",
+    "link": "https://en.wikipedia.org/wiki/The_Sound_of_the_Mountain\n",
+    "pages": 288,
+    "title": "The Sound of the Mountain",
+    "subject": "Action"
+  },
+  {
+    "author": "Nikos Kazantzakis",
+    "country": "Greece",
+    "published": "1973-12-04",
+    "language": "Greek",
+    "link": "https://en.wikipedia.org/wiki/Zorba_the_Greek\n",
+    "pages": 368,
+    "title": "Zorba the Greek",
+    "subject": "Action"
+  },
+  {
+    "author": "D. H. Lawrence",
+    "country": "United Kingdom",
+    "published": "1971-06-04",
+    "language": "English",
+    "link": "https://en.wikipedia.org/wiki/Sons_and_Lovers\n",
+    "pages": 432,
+    "title": "Sons and Lovers",
+    "subject": "Action"
+  },
+  {
+    "author": "Halld\u00f3r Laxness",
+    "country": "Iceland",
+    "published": "1979-06-21",
+    "language": "Icelandic",
+    "link": "https://en.wikipedia.org/wiki/Independent_People\n",
+    "pages": 470,
+    "title": "Independent People",
+    "subject": "Action"
+  },
+  {
+    "author": "Giacomo Leopardi",
+    "country": "Italy",
+    "published": "1999-05-31",
+    "language": "Italian",
+    "link": "\n",
+    "pages": 184,
+    "title": "Poems",
+    "subject": "Drama"
+  },
+  {
+    "author": "Doris Lessing",
+    "country": "United Kingdom",
+    "published": "1997-05-28",
+    "language": "English",
+    "link": "https://en.wikipedia.org/wiki/The_Golden_Notebook\n",
+    "pages": 688,
+    "title": "The Golden Notebook",
+    "subject": "Drama"
+  },
+  {
+    "author": "Astrid Lindgren",
+    "country": "Sweden",
+    "published": "2001-07-06",
+    "language": "Swedish",
+    "link": "https://en.wikipedia.org/wiki/Pippi_Longstocking\n",
+    "pages": 160,
+    "title": "Pippi Longstocking",
+    "subject": "Action"
+  },
+  {
+    "author": "Lu Xun",
+    "country": "China",
+    "published": "2001-01-01",
+    "language": "Chinese",
+    "link": "https://en.wikipedia.org/wiki/A_Madman%27s_Diary\n",
+    "pages": 389,
+    "title": "Diary of a Madman",
+    "subject": "Action"
+  },
+  {
+    "author": "Naguib Mahfouz",
+    "country": "Egypt",
+    "published": "2003-01-31",
+    "language": "Arabic",
+    "link": "https://en.wikipedia.org/wiki/Children_of_Gebelawi\n",
+    "pages": 355,
+    "title": "Children of Gebelawi",
+    "subject": "Drama"
+  },
+  {
+    "author": "Thomas Mann",
+    "country": "Germany",
+    "published": "1998-12-21",
+    "language": "German",
+    "link": "https://en.wikipedia.org/wiki/Buddenbrooks\n",
+    "pages": 736,
+    "title": "Buddenbrooks",
+    "subject": "Drama"
+  },
+  {
+    "author": "Thomas Mann",
+    "country": "Germany",
+    "published": "2002-09-31",
+    "language": "German",
+    "link": "https://en.wikipedia.org/wiki/The_Magic_Mountain\n",
+    "pages": 720,
+    "title": "The Magic Mountain",
+    "subject": "Action"
+  },
+  {
+    "author": "Herman Melville",
+    "country": "United States",
+    "published": "1955-04-12",
+    "language": "English",
+    "link": "https://en.wikipedia.org/wiki/Moby-Dick\n",
+    "pages": 378,
+    "title": "Moby Dick",
+    "subject": "Drama"
+  },
+  {
+    "author": "Michel de Montaigne",
+    "country": "France",
+    "published": "1983-02-04",
+    "language": "French",
+    "link": "https://en.wikipedia.org/wiki/Essays_(Montaigne)\n",
+    "pages": 404,
+    "title": "Essays",
+    "subject": "Action"
+  },
+  {
+    "author": "Elsa Morante",
+    "country": "Italy",
+    "published": "1972-12-04",
+    "language": "Italian",
+    "link": "https://en.wikipedia.org/wiki/History_(novel)\n",
+    "pages": 600,
+    "title": "History",
+    "subject": "Action"
+  },
+  {
+    "author": "Toni Morrison",
+    "country": "United States",
+    "published": "1968-06-04",
+    "language": "English",
+    "link": "https://en.wikipedia.org/wiki/Beloved_(novel)\n",
+    "pages": 321,
+    "title": "Beloved",
+    "subject": "Drama"
+  },
+  {
+    "author": "Murasaki Shikibu",
+    "country": "Japan",
+    "published": "1971-03-04",
+    "language": "Japanese",
+    "link": "https://en.wikipedia.org/wiki/The_Tale_of_Genji\n",
+    "pages": " ",
+    "title": "The Tale of Genji",
+    "subject": "Drama"
+  },
+  {
+    "author": "Robert Musil",
+    "country": "Austria",
+    "published": "1973-12-04",
+    "language": "German",
+    "link": "https://en.wikipedia.org/wiki/The_Man_Without_Qualities\n",
+    "pages": 365,
+    "title": "The Man Without Qualities",
+    "subject": "Action"
+  },
+  {
+    "author": "Vladimir Nabokov",
+    "country": "Russia/United States",
+    "published": "2009-06-01",
+    "language": "English",
+    "link": "https://en.wikipedia.org/wiki/Lolita\n",
+    "pages": 317,
+    "title": "Lolita",
+    "subject": "Action"
+  },
+  {
+    "author": "George Orwell",
+    "country": "United Kingdom",
+    "published": "2001-12-18",
+    "language": "English",
+    "link": "https://en.wikipedia.org/wiki/Nineteen_Eighty-Four\n",
+    "pages": 272,
+    "title": "Nineteen Eighty-Four",
+    "subject": "Action"
+  },
+  {
+    "author": "Ovid",
+    "country": "Roman Empire",
+    "published": "1973-10-31",
+    "language": "Classical Latin",
+    "link": "https://en.wikipedia.org/wiki/Metamorphoses\n",
+    "pages": 576,
+    "title": "Metamorphoses",
+    "subject": "Drama"
+  },
+  {
+    "author": "Fernando Pessoa",
+    "country": "Portugal",
+    "published": "1999-12-04",
+    "language": "Portuguese",
+    "link": "https://en.wikipedia.org/wiki/The_Book_of_Disquiet\n",
+    "pages": 272,
+    "title": "The Book of Disquiet",
+    "subject": "Drama"
+  },
+  {
+    "author": "Edgar Allan Poe",
+    "country": "United States",
+    "published": "1997-12-04",
+    "language": "English",
+    "link": "https://en.wikipedia.org/wiki/Edgar_Allan_Poe_bibliography#Tales\n",
+    "pages": 842,
+    "title": "Tales",
+    "subject": "Drama"
+  },
+  {
+    "author": "Marcel Proust",
+    "country": "France",
+    "published": "1936-12-04",
+    "language": "French",
+    "link": "https://en.wikipedia.org/wiki/In_Search_of_Lost_Time\n",
+    "pages": " ",
+    "title": "In Search of Lost Time",
+    "subject": "Drama"
+  },
+  {
+    "author": "Fran\u00e7ois Rabelais",
+    "country": "France",
+    "published": "1985-12-04",
+    "language": "French",
+    "link": "https://en.wikipedia.org/wiki/Gargantua_and_Pantagruel\n",
+    "pages": 623,
+    "title": "Gargantua and Pantagruel",
+    "subject": "Comedy"
+  },
+  {
+    "author": "Juan Rulfo",
+    "country": "Mexico",
+    "published": "1996-12-04",
+    "language": "Spanish",
+    "link": "https://en.wikipedia.org/wiki/Pedro_P%C3%A1ramo\n",
+    "pages": 124,
+    "title": "Pedro P\u00e1ramo",
+    "subject": "Action"
+  },
+  {
+    "author": "Rumi",
+    "country": "Sultanate of Rum",
+    "published": "1992-12-04",
+    "language": "Persian",
+    "link": "https://en.wikipedia.org/wiki/Masnavi\n",
+    "pages": 438,
+    "title": "The Masnavi",
+    "subject": "Action"
+  },
+  {
+    "author": "Salman Rushdie",
+    "country": "United Kingdom, India",
+    "published": "1986-12-04",
+    "language": "English",
+    "link": "https://en.wikipedia.org/wiki/Midnight%27s_Children\n",
+    "pages": 536,
+    "title": "Midnight's Children",
+    "subject": "Drama"
+  },
+  {
+    "author": "Saadi",
+    "country": "Persia, Persian Empire",
+    "published": "1958-12-04",
+    "language": "Persian",
+    "link": "https://en.wikipedia.org/wiki/Bustan_(book)\n",
+    "pages": 298,
+    "title": "Bostan",
+    "subject": "Drama"
+  },
+  {
+    "author": "Tayeb Salih",
+    "country": "Sudan",
+    "published": "1973-12-04",
+    "language": "Arabic",
+    "link": "https://en.wikipedia.org/wiki/Season_of_Migration_to_the_North\n",
+    "pages": 139,
+    "title": "Season of Migration to the North",
+    "subject": "Drama"
+  },
+  {
+    "author": "Jos\u00e9 Saramago",
+    "country": "Portugal",
+    "published": "1973-12-04",
+    "language": "Portuguese",
+    "link": "https://en.wikipedia.org/wiki/Blindness_(novel)\n",
+    "pages": 352,
+    "title": "Blindness",
+    "subject": "Drama"
+  },
+  {
+    "author": "William Shakespeare",
+    "country": "England",
+    "published": "1973-12-04",
+    "language": "English",
+    "link": "https://en.wikipedia.org/wiki/Hamlet\n",
+    "pages": 432,
+    "title": "Hamlet",
+    "subject": "Drama"
+  },
+  {
+    "author": "William Shakespeare",
+    "country": "England",
+    "published": "1973-12-04",
+    "language": "English",
+    "link": "https://en.wikipedia.org/wiki/King_Lear\n",
+    "pages": 384,
+    "title": "King Lear",
+    "subject": "Action"
+  },
+  {
+    "author": "William Shakespeare",
+    "country": "England",
+    "published": "1985-06-04",
+    "language": "English",
+    "link": "https://en.wikipedia.org/wiki/Othello\n",
+    "pages": 314,
+    "title": "Othello",
+    "subject": "Comedy"
+  },
+  {
+    "author": "Sophocles",
+    "country": "Greece",
+    "published": "1973-12-04",
+    "language": "Greek",
+    "link": "https://en.wikipedia.org/wiki/Oedipus_the_King\n",
+    "pages": 88,
+    "title": "Oedipus the King",
+    "subject": "Action"
+  },
+  {
+    "author": "Stendhal",
+    "country": "France",
+    "published": "1973-12-04",
+    "language": "French",
+    "link": "https://en.wikipedia.org/wiki/The_Red_and_the_Black\n",
+    "pages": 576,
+    "title": "The Red and the Black",
+    "subject": "Drama"
+  },
+  {
+    "author": "Laurence Sterne",
+    "country": "England",
+    "published": "1968-11-14",
+    "language": "English",
+    "link": "https://en.wikipedia.org/wiki/The_Life_and_Opinions_of_Tristram_Shandy,_Gentleman\n",
+    "pages": 640,
+    "title": "The Life And Opinions of Tristram Shandy",
+    "subject": "Drama"
+  },
+  {
+    "author": "Italo Svevo",
+    "country": "Italy",
+    "published": "2011-08-25",
+    "language": "Italian",
+    "link": "https://en.wikipedia.org/wiki/Zeno%27s_Conscience\n",
+    "pages": 412,
+    "title": "Confessions of Zeno",
+    "subject": "Drama"
+  },
+  {
+    "author": "Jonathan Swift",
+    "country": "Ireland",
+    "published": "1929-04-20",
+    "language": "English",
+    "link": "https://en.wikipedia.org/wiki/Gulliver%27s_Travels\n",
+    "pages": 178,
+    "title": "Gulliver's Travels",
+    "subject": "Action"
+  },
+  {
+    "author": "Leo Tolstoy",
+    "country": "Russia",
+    "published": "1963-11-15",
+    "language": "Russian",
+    "link": "https://en.wikipedia.org/wiki/War_and_Peace\n",
+    "pages": " ",
+    "title": "War and Peace",
+    "subject": "Horror"
+
+  },
+  {
+    "author": "Leo Tolstoy",
+    "country": "Russia",
+    "published": "1877-02-28",
+    "language": "Russian",
+    "link": "https://en.wikipedia.org/wiki/Anna_Karenina\n",
+    "pages": 864,
+    "title": "Anna Karenina",
+    "subject": "Action"
+  },
+  {
+    "author": "Leo Tolstoy",
+    "country": "Russia",
+    "published": "1950-06-25",
+    "language": "Russian",
+    "link": "https://en.wikipedia.org/wiki/The_Death_of_Ivan_Ilyich\n",
+    "pages": 92,
+    "title": "The Death of Ivan Ilyich",
+    "subject": "Horror"
+  },
+  {
+    "author": "Mark Twain",
+    "country": "United States",
+    "published": "1976-12-25",
+    "language": "English",
+    "link": "https://en.wikipedia.org/wiki/Adventures_of_Huckleberry_Finn\n",
+    "pages": 224,
+    "title": "The Adventures of Huckleberry Finn",
+    "subject": "Action"
+  },
+  {
+    "author": "Valmiki",
+    "country": "India",
+    "published": "1968-08-04",
+    "language": "Sanskrit",
+    "link": "https://en.wikipedia.org/wiki/Ramayana\n",
+    "pages": 152,
+    "title": "Ramayana",
+    "subject": "Mythology"
+  },
+  {
+    "author": "Virgil",
+    "country": "Roman Empire",
+    "published": "1985-11-06",
+    "language": "Classical Latin",
+    "link": "https://en.wikipedia.org/wiki/Aeneid\n",
+    "pages": 442,
+    "title": "The Aeneid",
+    "subject": "Action"
+  },
+  {
+    "author": "Vyasa",
+    "country": "India",
+    "published": "1700-12-04",
+    "language": "Sanskrit",
+    "link": "https://en.wikipedia.org/wiki/Mahabharata\n",
+    "pages": 276,
+    "title": "Mahabharata",
+    "subject": "Mythology"
+  },
+  {
+    "author": "Walt Whitman",
+    "country": "United States",
+    "published": "1855-12-04",
+    "language": "English",
+    "link": "https://en.wikipedia.org/wiki/Leaves_of_Grass\n",
+    "pages": 152,
+    "title": "Leaves of Grass",
+    "subject": "Drama"
+  },
+  {
+    "author": "Virginia Woolf",
+    "country": "United Kingdom",
+    "published": "1925-12-04",
+    "language": "English",
+    "link": "https://en.wikipedia.org/wiki/Mrs_Dalloway\n",
+    "pages": 216,
+    "title": "Mrs Dalloway",
+    "subject": "Drama"
+  },
+  {
+    "author": "Virginia Woolf",
+    "country": "United Kingdom",
+    "published": "1927-12-04",
+    "language": "English",
+    "link": "https://en.wikipedia.org/wiki/To_the_Lighthouse\n",
+    "pages": 209,
+    "title": "To the Lighthouse",
+    "subject": "Horror"
+  },
+  {
+    "author": "Marguerite Yourcenar",
+    "country": "France/Belgium",
+    "published": "1951-12-04",
+    "language": "French",
+    "link": "https://en.wikipedia.org/wiki/Memoirs_of_Hadrian\n",
+    "pages": 408,
+    "title": "Memoirs of Hadrian",
+    "subject": "Drama"
+  }
+]
